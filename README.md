@@ -5,11 +5,11 @@ During this class, we will use NEURON 8.2. Please follow the instructions to ins
 
 Please also install the following Python packages:
 
-Numpy
+Numpy: https://www.geeksforgeeks.org/how-to-install-numpy-on-macos/
 
-Scipy
+Scipy: https://scipy.org/install/
 
-Matplotlib
+Matplotlib: https://matplotlib.org/stable/users/installing/index.html
 
 Pandas
 
