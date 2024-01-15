@@ -4,10 +4,15 @@ A310 Computational Neuroscience - Okinawa Institute of Science and Technology, 2
 During this class, we will use NEURON 8.2. Please follow the instruction to install the software **before** the first exercise class.
 
 Please also install the following Python packages:
+
 Numpy
+
 Scipy
+
 Matplotlib
+
 Pandas
+
 JupyterLab
 
 Please install them by following the instructions at their homepages.
@@ -30,6 +35,9 @@ In this class, we will learn more about modeling active mechanisms.
 In this class, we will learn the basics about using NEURON for implementing network models
 
 ** Homeworks: ** Please submit your homeworks by email before the submission deadline indicated below: 
+
 Homework 1: deadline March 7th, 2024
+
 Homework 2: deadline April 4th, 2024
+
 Homework 3: deadline is April 18th, 2024 
