@@ -3,7 +3,7 @@ A310 Computational Neuroscience - Okinawa Institute of Science and Technology, 2
 
 During this class, we will use NEURON 8.2. Please follow the instructions to install the software **before** the first exercise class: https://www.neuron.yale.edu/neuron/download
 
-Please also install the following Python packages:
+Please also install the following Python packages following the instructions:
 
 Numpy: https://www.geeksforgeeks.org/how-to-install-numpy-on-macos/
 
@@ -11,11 +11,9 @@ Scipy: https://scipy.org/install/
 
 Matplotlib: https://matplotlib.org/stable/users/installing/index.html
 
-Pandas
+Pandas: https://pypi.org/project/pandas/
 
-JupyterLab
-
-Please install them by following the instructions at their homepages.
+JupyterLab: https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
 
 **Class Schedule**
 
