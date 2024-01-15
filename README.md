@@ -1,7 +1,7 @@
 # CNS2024 
 A310 Computational Neuroscience - Okinawa Institute of Science and Technology, 2024
 
-During this class, we will use NEURON 8.2. Please follow the instruction to install the software **before** the first exercise class.
+During this class, we will use NEURON 8.2. Please follow the instructions to install the software **before** the first exercise class: https://www.neuron.yale.edu/neuron/download
 
 Please also install the following Python packages:
 
